@@ -1,0 +1,38 @@
+html, body {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.content {
+    /** border: 1px red solid; */
+    height: 100%;
+}
+
+.row {
+    border: 1px solid burlywood;
+    border-radius: 10px;
+    margin: 10px 50px 10px 50px;
+    overflow: auto;
+}
+
+.container {
+    float: left;
+    text-align: center;
+}
+img {
+    width: 250px;
+    margin: 15px 15px 0px 15px;
+    border-radius: 10px;
+    border: 1px slategray solid;
+}
+
+.text-on-the-right {
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px;
+}
+
+.data {
+    margin: 0 0 15px 0;
+    font-family: 'Montserrat', sans-serif;
+}
